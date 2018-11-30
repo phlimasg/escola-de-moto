@@ -53,7 +53,7 @@
         <div class="col-md-4">
           <div class="thumbnail">
             
-              <img src="/img/lights.jpg" alt="Lights" style="width:100%">
+              <img src="{{asset('/img/lights.jpg')}}" alt="Lights" style="width:100%">
               <div class="caption">
                 <h3>Módulo 1</h3>
                 <p>Lorem ipsum donec id elit non mi porta gravida at eget metus. <a href="">Saiba Mais!</a>  </p>
@@ -64,7 +64,7 @@
         </div>
         <div class="col-md-4">
           <div class="thumbnail">
-              <img src="/img/fjords.jpg" alt="Lights" style="width:100%">
+              <img src="{{asset('/img/fjords.jpg')}}" alt="Lights" style="width:100%">
               <div class="caption">
                 <h3>Módulo 2</h3>
                 <p>Lorem ipsum donec id elit non mi porta gravida at eget metus. <a href="">Saiba Mais!</a>  </p>
@@ -74,7 +74,7 @@
         </div>
         <div class="col-md-4">
           <div class="thumbnail">
-              <img src="/img/nature.jpg" alt="Lights" style="width:100%">
+              <img src="{{asset('/img/nature.jpg')}}" alt="Lights" style="width:100%">
               <div class="caption">
                 <h3>Módulo 3</h3>
                 <p>Lorem ipsum donec id elit non mi porta gravida at eget metus. <a href="">Saiba Mais!</a>  </p>
