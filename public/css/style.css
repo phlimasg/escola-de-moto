@@ -1,0 +1,41 @@
+.navbar{
+    border-radius: 0px;    
+    background-color: brown;
+    border: none;
+    margin-bottom: 0px;
+}
+.nav>li>a{
+    padding: 30px;
+}
+.logo{
+    margin-left: 25px; 
+    margin-right: 25px; 
+    width: 50px;
+}
+.carousel-caption{
+    text-align: right;
+    bottom: 30%;
+    text-shadow: 0 3px 3px rgba(0,0,0,.8);
+    
+}
+.carousel-caption>h3{    
+    font-size: 4em
+}
+.carousel-caption>p{
+    font-size: 2em
+}
+.btn-quero{
+    border-radius: 0px;
+    background-color: brown; 
+    font-size: 2em;
+}
+.btn-quero:hover{
+    color: rgb(220, 220, 220);
+}
+.footer{     
+    background-color: brown;
+    color: white
+}
+.btn, .form-control{
+    border-radius: 0px;
+}
