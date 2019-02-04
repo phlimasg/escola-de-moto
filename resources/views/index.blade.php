@@ -85,7 +85,7 @@
       </div>
 </div>
 </div>
-<!--Fim Cursos-->   
+<!--Fim Cursos--> 
 
 <!--Contato-->   
 <div class="container-fluid">
@@ -111,6 +111,14 @@
                 <button class="btn btn-danger btn-lg">Enviar contato</button>
               </div>            
           </div>
+      </div>
+      <div class="col-sm-6">
+        <h3>Telefones:</h3>
+        <h3>(21) 99714-9715 - Elis</h3>
+        <h3>(21) 97931-1400 - Mauricio</h3>
+        <h3>(21) 3587-4364</h3>
+        <a href="https://wa.me/5521985846784?text=Oi,%20Tenho%20interesse%20no%20curso%20de%20Mecânica%20de%20Motos." class="btn btn-success btn-lg"><img src="http://i0.wp.com/redballoon.com.br/wp-content/uploads/2016/06/whatsapp-logo-icone.png" alt="" width="25px">
+        Contato pelo Whatsapp</a>
       </div>
     </div>
   </div>
